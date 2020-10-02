@@ -1,2 +1,2 @@
 # LSTM_AND_GRU
-DEEP LEARNING WITH LSTM AND THE GRU
+Django Complete ecommerce with colorlib template
